@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d64366e8f3119a04892885ef2585d07f, type: 3}
+  m_Name: 14_ConfigBallSpawner
+  m_EditorClassIdentifier: 
+  <MinDurationSpawnBalls>k__BackingField: 3
+  <MaxDurationSpawnBalls>k__BackingField: 5
+  <MinLivesBalls>k__BackingField: 8
+  <MaxLivesBalls>k__BackingField: 9
+  <QueueBalls>k__BackingField:
+  - {fileID: 11400000, guid: ca9000cf87d7258429cdf95e9e8160cc, type: 2}
+  - {fileID: 11400000, guid: 5fbec4aedfc0ed644baff771262dfd66, type: 2}
+  - {fileID: 11400000, guid: e39fc11ec76056146a56ad241751918d, type: 2}
+  - {fileID: 11400000, guid: e39fc11ec76056146a56ad241751918d, type: 2}
+  - {fileID: 11400000, guid: e39fc11ec76056146a56ad241751918d, type: 2}
+  - {fileID: 11400000, guid: e39fc11ec76056146a56ad241751918d, type: 2}
